@@ -1,2 +1,3 @@
 # React-JS
-Note taking app built with React JS
+
+task tracking app built with React JS
